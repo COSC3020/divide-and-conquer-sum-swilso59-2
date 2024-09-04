@@ -55,3 +55,12 @@ $\frac{n}{3^{k}} = 1$.
 - We can now substitute this back into our equation and get.
   - $T(n) = n \cdot T(1) + c \cdot \frac{n - 1}{2}$
 - Now we can see that because of the base case $T(1) = 1$, and in the $\frac{n - 1}{2}$ portion the domaninant term is $n$ which is linear. We can say $T(n) \in \Theta(n)$.
+
+For this assignment I reviewed the lecture slides https://uwyo.instructure.com/files/86250260/download?download_frd=1
+I reviewed the repository https://github.com/COSC3020/divide-and-conquer-sum-swilso59-1 to check some of my work. 
+I also talked with the TA during lab just to get help with the geometric series portion of the recurance relation. 
+
+I certify that I have listed all sources used to complete this exercise, including the use
+of any Large Language Models. All of the work is my own, except where stated
+otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
+suspected, charges may be filed against me without prior notice.
