@@ -58,7 +58,7 @@ $\frac{n}{3^{k}} = 1$.
 
 For this assignment I reviewed the lecture slides https://uwyo.instructure.com/files/86250260/download?download_frd=1
 I reviewed the repository https://github.com/COSC3020/divide-and-conquer-sum-swilso59-1 to check some of my work. 
-I also talked with the TA during lab just to get help with the geometric series portion of the recurance relation. 
+I also talked with the TA during lab for helo with the geometric series portion of the recurance relation. 
 
 I certify that I have listed all sources used to complete this exercise, including the use
 of any Large Language Models. All of the work is my own, except where stated
