@@ -8,7 +8,7 @@ function divideAndConquerSum(a) {
 
     var length = a.length;
     var sectionOne = Math.round(length/3);
-    var secontindTwo = sectionOne * 2;
+    var sectionTwo = sectionOne * 2;
     
     return divideAndConquerSum(a.slice(0,sectionOne)) + divideAndConquerSum(a.slice(sectionOne,sectionTwo)) + divideAndConquerSum(a.slice(sectionTwo));
 }
